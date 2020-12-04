@@ -1,0 +1,1 @@
+{"version":3,"sources":["pages/compass/index.tsx"],"names":["index"],"mappings":"mLAEe,SAASA,IACtB,OACE","file":"static/js/7.1b77de8b.chunk.js","sourcesContent":["import React from 'react';\n\nexport default function index() {\n  return (\n    <div>compass</div>\n  );\n}\n"],"sourceRoot":""}

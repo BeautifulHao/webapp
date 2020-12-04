@@ -1,2 +1,0 @@
-(this["webpackJsonpapp-template"]=this["webpackJsonpapp-template"]||[]).push([[7],{228:function(t,e,p){"use strict";p.r(e),p.d(e,"default",(function(){return s}));var n=p(3);p(0);function s(){return Object(n.jsx)("div",{children:"compass"})}}}]);
-//# sourceMappingURL=7.a3d0d358.chunk.js.map
