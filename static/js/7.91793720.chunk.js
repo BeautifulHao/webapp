@@ -1,1 +1,0 @@
-(this["webpackJsonpapp-template"]=this["webpackJsonpapp-template"]||[]).push([[7],{258:function(t,e,p){"use strict";p.r(e),p.d(e,"default",(function(){return a}));var n=p(3);p(0);function a(){return Object(n.jsx)("div",{})}}}]);
